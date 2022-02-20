@@ -1,0 +1,13 @@
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.exe
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.deps.json
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.runtimeconfig.json
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.runtimeconfig.dev.json
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.dll
+C:\Users\colet\OneDrive\Desktop\IP Finder\bin\Debug\netcoreapp3.1\IP Finder.pdb
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.csprojAssemblyReference.cache
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.AssemblyInfoInputs.cache
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.AssemblyInfo.cs
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.csproj.CoreCompileInputs.cache
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.dll
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.pdb
+C:\Users\colet\OneDrive\Desktop\IP Finder\obj\Debug\netcoreapp3.1\IP Finder.genruntimeconfig.cache
